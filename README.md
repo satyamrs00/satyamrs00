@@ -14,16 +14,22 @@
 	</a>
 </div>
 
-<hr>
+<!-- <hr> -->
+<br>
 
 <!-- Points -->
 ```diff
+
 + I am a Full Stack Developer.
 + Currently working as Web Developer intern at JDMR Ischool.
 + Second year student at IIIT Bhopal
+
 ```
+<br>
 
 <!-- badges -->
+<div align="center">
+
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satyamsagar1711@gmail.com)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyamrs00)
 [![](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/satyamrs00)
@@ -31,11 +37,14 @@
 [![](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/satyamrs00/)
 [![](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/satyamsagar1711)
 [![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/satyamrs00)
+
+</div>
 <!-- [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]() -->
 <!-- ![](https://komarev.com/ghpvc/?username=satyamrs00&color=259076&style=flat) -->
 
 
 <hr>
+
 
 <div>
 	<!-- Github Stats -->
@@ -72,6 +81,11 @@
 		<img src="pagespeed.svg" width="60%">
 	</a>
 </div>
+
+<hr>
+
+## Recent Activity 📊
+<!--START_SECTION:activity-->
 
 <hr>
 
