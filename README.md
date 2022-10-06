@@ -84,7 +84,7 @@
 
 <hr>
 
-## Recent Activity 📊
+### Recent Activity 📊
 <!--START_SECTION:activity-->
 
 <hr>
