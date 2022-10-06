@@ -17,15 +17,13 @@
 <hr>
 
 <!-- Points -->
-<div>
-	<ul>
-		<li>I am a student at IIIT Bhopal</li>
-		<li><b>Back-end</b> developer</li>
-		<li>Currently working with <b>Python</b> and <b>Postgres</b></li>
-	</ul>
-</div>
+```diff
++ I am a Full Stack Developer.
++ Currently working as Web Developer intern at JDMR Ischool.
++ Second year student at IIIT Bhopal
+```
 
-![](https://komarev.com/ghpvc/?username=satyamrs00&color=654C73&style=flat)
+![](https://komarev.com/ghpvc/?username=satyamrs00&color=259076&style=flat)
 
 
 <hr>
