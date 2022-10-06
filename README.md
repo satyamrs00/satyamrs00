@@ -78,6 +78,23 @@
 	</a>
 </div>
 
+<div width="100%" align="center">
+	<a align="left" href="https://github.com/satyamrs00/satyamrs00.github.io" title="Portfolio">
+		<img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=satyamrs00&repo=satyamrs00.github.io&theme=gotham&hide_border=true">
+	</a>
+	<a align="right" href="https://github.com/satyamrs00/network" title="network">
+		<img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=satyamrs00&repo=network&theme=gotham&hide_border=true">
+	</a>
+</div>
+
+<div width="100%" align="center">
+	<a align="left" href="https://github.com/satyamrs00/library" title="library">
+		<img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=satyamrs00&repo=library&theme=gotham&hide_border=true">
+	</a>
+	<a align="right" href="https://github.com/satyamrs00/satyamrs00" title="satyamrs00">
+		<img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=satyamrs00&repo=satyamrs00&theme=gotham&hide_border=true">
+	</a>
+</div>
 
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=satyamrs00&theme=dark)](https://github.com/ryo-ma/github-profile-trophy) -->
