@@ -33,7 +33,7 @@
 <div>
 	<!-- Github Stats -->
 	<a href="https://github.com/anuraghazra/github-readme-stats">
-		<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyamrs00&theme=gotham&count_private=true&show_icons=true&hide_border=true" />
+		<img align="center" width="59%" src="https://github-readme-stats.vercel.app/api?username=satyamrs00&theme=gotham&count_private=true&show_icons=true&hide_border=true" />
 	</a>
 	<!-- Top langs -->
 	<a href="https://github.com/anuraghazra/github-readme-stats">
@@ -44,11 +44,11 @@
 <div>
 	<!-- Github Streak -->
 	<a href="https://git.io/streak-stats">
-		<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyamrs00&theme=gotham&hide_border=true"/>
+		<img align="center" width="59%" src="https://github-readme-streak-stats.herokuapp.com/?user=satyamrs00&theme=gotham&hide_border=true"/>
 	</a>
 	<!-- Spotify -->
 	<a href="https://spotify-github-profile.vercel.app/api/view?uid=312qacqmhjkmy7v64d3a2jxlnc6m&redirect=true">
-		<img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=312qacqmhjkmy7v64d3a2jxlnc6m&cover_image=true&theme=novatorem&show_offline=false&bar_color=259076&bar_color_cover=false"/>
+		<img align="center" width="40%" src="https://spotify-github-profile.vercel.app/api/view?uid=312qacqmhjkmy7v64d3a2jxlnc6m&cover_image=true&theme=novatorem&show_offline=false&bar_color=259076&bar_color_cover=false"/>
 	</a>
 </div>
 
