@@ -86,11 +86,11 @@
 
 ### Recent Activity 📊
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#4](https://github.com/SoundaryaKhanapur/devnation-hacktoberfest/pull/4) in [SoundaryaKhanapur/devnation-hacktoberfest](https://github.com/SoundaryaKhanapur/devnation-hacktoberfest)
-2. 🗣 Commented on [#46](https://github.com/thieleju/statsbot/issues/46) in [thieleju/statsbot](https://github.com/thieleju/statsbot)
-3. 💪 Opened PR [#52](https://github.com/thieleju/statsbot/pull/52) in [thieleju/statsbot](https://github.com/thieleju/statsbot)
-4. 💪 Opened PR [#51](https://github.com/thieleju/statsbot/pull/51) in [thieleju/statsbot](https://github.com/thieleju/statsbot)
-5. 🗣 Commented on [#46](https://github.com/thieleju/statsbot/issues/46) in [thieleju/statsbot](https://github.com/thieleju/statsbot)
+1. 💪 Opened PR [#71](https://github.com/agamjotsingh18/codesetgo-website/pull/71) in [agamjotsingh18/codesetgo-website](https://github.com/agamjotsingh18/codesetgo-website)
+2. ❌ Closed PR [#4](https://github.com/SoundaryaKhanapur/devnation-hacktoberfest/pull/4) in [SoundaryaKhanapur/devnation-hacktoberfest](https://github.com/SoundaryaKhanapur/devnation-hacktoberfest)
+3. 🗣 Commented on [#46](https://github.com/thieleju/statsbot/issues/46) in [thieleju/statsbot](https://github.com/thieleju/statsbot)
+4. 💪 Opened PR [#52](https://github.com/thieleju/statsbot/pull/52) in [thieleju/statsbot](https://github.com/thieleju/statsbot)
+5. 💪 Opened PR [#51](https://github.com/thieleju/statsbot/pull/51) in [thieleju/statsbot](https://github.com/thieleju/statsbot)
 <!--END_SECTION:activity-->
 
 <hr>
