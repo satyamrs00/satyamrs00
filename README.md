@@ -86,11 +86,11 @@
 
 ### Recent Activity 📊
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6](https://github.com/MicrosoftStudentChapter/Hack-O-Bot/issues/6) in [MicrosoftStudentChapter/Hack-O-Bot](https://github.com/MicrosoftStudentChapter/Hack-O-Bot)
-2. 💪 Opened PR [#12](https://github.com/MicrosoftStudentChapter/Hack-O-Bot/pull/12) in [MicrosoftStudentChapter/Hack-O-Bot](https://github.com/MicrosoftStudentChapter/Hack-O-Bot)
-3. 🗣 Commented on [#1](https://github.com/MicrosoftStudentChapter/Hack-O-Bot/issues/1) in [MicrosoftStudentChapter/Hack-O-Bot](https://github.com/MicrosoftStudentChapter/Hack-O-Bot)
-4. 🗣 Commented on [#49](https://github.com/devlup-labs/devlup-labs.github.io/issues/49) in [devlup-labs/devlup-labs.github.io](https://github.com/devlup-labs/devlup-labs.github.io)
-5. 💪 Opened PR [#139](https://github.com/flyingSaucer87/community-website/pull/139) in [flyingSaucer87/community-website](https://github.com/flyingSaucer87/community-website)
+1. 🗣 Commented on [#5](https://github.com/MicrosoftStudentChapter/Hack-O-Bot/issues/5) in [MicrosoftStudentChapter/Hack-O-Bot](https://github.com/MicrosoftStudentChapter/Hack-O-Bot)
+2. 💪 Opened PR [#13](https://github.com/MicrosoftStudentChapter/Hack-O-Bot/pull/13) in [MicrosoftStudentChapter/Hack-O-Bot](https://github.com/MicrosoftStudentChapter/Hack-O-Bot)
+3. 🗣 Commented on [#6](https://github.com/MicrosoftStudentChapter/Hack-O-Bot/issues/6) in [MicrosoftStudentChapter/Hack-O-Bot](https://github.com/MicrosoftStudentChapter/Hack-O-Bot)
+4. 💪 Opened PR [#12](https://github.com/MicrosoftStudentChapter/Hack-O-Bot/pull/12) in [MicrosoftStudentChapter/Hack-O-Bot](https://github.com/MicrosoftStudentChapter/Hack-O-Bot)
+5. 🗣 Commented on [#1](https://github.com/MicrosoftStudentChapter/Hack-O-Bot/issues/1) in [MicrosoftStudentChapter/Hack-O-Bot](https://github.com/MicrosoftStudentChapter/Hack-O-Bot)
 <!--END_SECTION:activity-->
 
 <hr>
