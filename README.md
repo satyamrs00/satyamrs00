@@ -86,11 +86,11 @@
 
 ### Recent Activity 📊
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#23](https://github.com/MicrosoftStudentChapter/Hack-O-Bot/issues/23) in [MicrosoftStudentChapter/Hack-O-Bot](https://github.com/MicrosoftStudentChapter/Hack-O-Bot)
-2. 💪 Opened PR [#21](https://github.com/MicrosoftStudentChapter/Hack-O-Bot/pull/21) in [MicrosoftStudentChapter/Hack-O-Bot](https://github.com/MicrosoftStudentChapter/Hack-O-Bot)
-3. ❌ Closed PR [#20](https://github.com/MicrosoftStudentChapter/Hack-O-Bot/pull/20) in [MicrosoftStudentChapter/Hack-O-Bot](https://github.com/MicrosoftStudentChapter/Hack-O-Bot)
-4. 💪 Opened PR [#20](https://github.com/MicrosoftStudentChapter/Hack-O-Bot/pull/20) in [MicrosoftStudentChapter/Hack-O-Bot](https://github.com/MicrosoftStudentChapter/Hack-O-Bot)
-5. 🗣 Commented on [#6](https://github.com/MicrosoftStudentChapter/Hack-O-Bot/issues/6) in [MicrosoftStudentChapter/Hack-O-Bot](https://github.com/MicrosoftStudentChapter/Hack-O-Bot)
+1. 🗣 Commented on [#720](https://github.com/jenkoian/hacktoberfest-checker/issues/720) in [jenkoian/hacktoberfest-checker](https://github.com/jenkoian/hacktoberfest-checker)
+2. ❗️ Opened issue [#23](https://github.com/MicrosoftStudentChapter/Hack-O-Bot/issues/23) in [MicrosoftStudentChapter/Hack-O-Bot](https://github.com/MicrosoftStudentChapter/Hack-O-Bot)
+3. 💪 Opened PR [#21](https://github.com/MicrosoftStudentChapter/Hack-O-Bot/pull/21) in [MicrosoftStudentChapter/Hack-O-Bot](https://github.com/MicrosoftStudentChapter/Hack-O-Bot)
+4. ❌ Closed PR [#20](https://github.com/MicrosoftStudentChapter/Hack-O-Bot/pull/20) in [MicrosoftStudentChapter/Hack-O-Bot](https://github.com/MicrosoftStudentChapter/Hack-O-Bot)
+5. 💪 Opened PR [#20](https://github.com/MicrosoftStudentChapter/Hack-O-Bot/pull/20) in [MicrosoftStudentChapter/Hack-O-Bot](https://github.com/MicrosoftStudentChapter/Hack-O-Bot)
 <!--END_SECTION:activity-->
 
 <hr>
