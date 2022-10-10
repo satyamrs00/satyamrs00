@@ -86,11 +86,11 @@
 
 ### Recent Activity 📊
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14](https://github.com/Puja-Saraf/CoDev-hh2/pull/14) in [Puja-Saraf/CoDev-hh2](https://github.com/Puja-Saraf/CoDev-hh2)
-2. 🗣 Commented on [#12](https://github.com/Subham-Maity/RandomSentenceGenerator/issues/12) in [Subham-Maity/RandomSentenceGenerator](https://github.com/Subham-Maity/RandomSentenceGenerator)
-3. 🗣 Commented on [#13](https://github.com/Puja-Saraf/CoDev-hh2/issues/13) in [Puja-Saraf/CoDev-hh2](https://github.com/Puja-Saraf/CoDev-hh2)
-4. 💪 Opened PR [#4](https://github.com/kyscg/chickenBiryani/pull/4) in [kyscg/chickenBiryani](https://github.com/kyscg/chickenBiryani)
-5. 🗣 Commented on [#2](https://github.com/kyscg/chickenBiryani/issues/2) in [kyscg/chickenBiryani](https://github.com/kyscg/chickenBiryani)
+1. 🗣 Commented on [#23](https://github.com/MicrosoftStudentChapter/Hack-O-Bot/issues/23) in [MicrosoftStudentChapter/Hack-O-Bot](https://github.com/MicrosoftStudentChapter/Hack-O-Bot)
+2. 💪 Opened PR [#14](https://github.com/Puja-Saraf/CoDev-hh2/pull/14) in [Puja-Saraf/CoDev-hh2](https://github.com/Puja-Saraf/CoDev-hh2)
+3. 🗣 Commented on [#12](https://github.com/Subham-Maity/RandomSentenceGenerator/issues/12) in [Subham-Maity/RandomSentenceGenerator](https://github.com/Subham-Maity/RandomSentenceGenerator)
+4. 🗣 Commented on [#13](https://github.com/Puja-Saraf/CoDev-hh2/issues/13) in [Puja-Saraf/CoDev-hh2](https://github.com/Puja-Saraf/CoDev-hh2)
+5. 💪 Opened PR [#4](https://github.com/kyscg/chickenBiryani/pull/4) in [kyscg/chickenBiryani](https://github.com/kyscg/chickenBiryani)
 <!--END_SECTION:activity-->
 
 <hr>
