@@ -86,11 +86,11 @@
 
 ### Recent Activity 📊
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#150](https://github.com/wasimreja/book-finder/pull/150) in [wasimreja/book-finder](https://github.com/wasimreja/book-finder)
-2. 🗣 Commented on [#148](https://github.com/wasimreja/book-finder/issues/148) in [wasimreja/book-finder](https://github.com/wasimreja/book-finder)
-3. 💪 Opened PR [#8](https://github.com/priyanshumaitra/instagram-home-feed-clone/pull/8) in [priyanshumaitra/instagram-home-feed-clone](https://github.com/priyanshumaitra/instagram-home-feed-clone)
-4. 🗣 Commented on [#5](https://github.com/priyanshumaitra/instagram-home-feed-clone/issues/5) in [priyanshumaitra/instagram-home-feed-clone](https://github.com/priyanshumaitra/instagram-home-feed-clone)
-5. 🗣 Commented on [#21](https://github.com/MicrosoftStudentChapter/Hack-O-Bot/issues/21) in [MicrosoftStudentChapter/Hack-O-Bot](https://github.com/MicrosoftStudentChapter/Hack-O-Bot)
+1. 🗣 Commented on [#2](https://github.com/kyscg/chickenBiryani/issues/2) in [kyscg/chickenBiryani](https://github.com/kyscg/chickenBiryani)
+2. 💪 Opened PR [#12](https://github.com/Subham-Maity/RandomSentenceGenerator/pull/12) in [Subham-Maity/RandomSentenceGenerator](https://github.com/Subham-Maity/RandomSentenceGenerator)
+3. 🗣 Commented on [#11](https://github.com/Subham-Maity/RandomSentenceGenerator/issues/11) in [Subham-Maity/RandomSentenceGenerator](https://github.com/Subham-Maity/RandomSentenceGenerator)
+4. 💪 Opened PR [#150](https://github.com/wasimreja/book-finder/pull/150) in [wasimreja/book-finder](https://github.com/wasimreja/book-finder)
+5. 🗣 Commented on [#148](https://github.com/wasimreja/book-finder/issues/148) in [wasimreja/book-finder](https://github.com/wasimreja/book-finder)
 <!--END_SECTION:activity-->
 
 <hr>
