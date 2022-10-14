@@ -87,10 +87,10 @@
 ### Recent Activity 📊
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#38](https://github.com/MicrosoftStudentChapter/Hack-O-Bot/issues/38) in [MicrosoftStudentChapter/Hack-O-Bot](https://github.com/MicrosoftStudentChapter/Hack-O-Bot)
-2. 🗣 Commented on [#12](https://github.com/PratyayDhond/BookQuotes/issues/12) in [PratyayDhond/BookQuotes](https://github.com/PratyayDhond/BookQuotes)
-3. 💪 Opened PR [#34](https://github.com/MicrosoftStudentChapter/Hack-O-Bot/pull/34) in [MicrosoftStudentChapter/Hack-O-Bot](https://github.com/MicrosoftStudentChapter/Hack-O-Bot)
-4. 🗣 Commented on [#23](https://github.com/MicrosoftStudentChapter/Hack-O-Bot/issues/23) in [MicrosoftStudentChapter/Hack-O-Bot](https://github.com/MicrosoftStudentChapter/Hack-O-Bot)
-5. 🗣 Commented on [#4](https://github.com/kyscg/chickenBiryani/issues/4) in [kyscg/chickenBiryani](https://github.com/kyscg/chickenBiryani)
+2. 🗣 Commented on [#38](https://github.com/MicrosoftStudentChapter/Hack-O-Bot/issues/38) in [MicrosoftStudentChapter/Hack-O-Bot](https://github.com/MicrosoftStudentChapter/Hack-O-Bot)
+3. 🗣 Commented on [#12](https://github.com/PratyayDhond/BookQuotes/issues/12) in [PratyayDhond/BookQuotes](https://github.com/PratyayDhond/BookQuotes)
+4. 💪 Opened PR [#34](https://github.com/MicrosoftStudentChapter/Hack-O-Bot/pull/34) in [MicrosoftStudentChapter/Hack-O-Bot](https://github.com/MicrosoftStudentChapter/Hack-O-Bot)
+5. 🗣 Commented on [#23](https://github.com/MicrosoftStudentChapter/Hack-O-Bot/issues/23) in [MicrosoftStudentChapter/Hack-O-Bot](https://github.com/MicrosoftStudentChapter/Hack-O-Bot)
 <!--END_SECTION:activity-->
 
 <hr>
