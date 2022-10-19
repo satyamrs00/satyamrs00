@@ -86,11 +86,11 @@
 
 ### Recent Activity 📊
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/Nandini108/Name-Generator/pull/7) in [Nandini108/Name-Generator](https://github.com/Nandini108/Name-Generator)
-2. 💪 Opened PR [#38](https://github.com/adityabisht02/BetterPoll-Backend/pull/38) in [adityabisht02/BetterPoll-Backend](https://github.com/adityabisht02/BetterPoll-Backend)
-3. 🗣 Commented on [#33](https://github.com/adityabisht02/BetterPoll-Backend/issues/33) in [adityabisht02/BetterPoll-Backend](https://github.com/adityabisht02/BetterPoll-Backend)
-4. 💪 Opened PR [#50](https://github.com/MicrosoftStudentChapter/Hack-O-Bot/pull/50) in [MicrosoftStudentChapter/Hack-O-Bot](https://github.com/MicrosoftStudentChapter/Hack-O-Bot)
-5. 💪 Opened PR [#20](https://github.com/pratap360/MyToolKits/pull/20) in [pratap360/MyToolKits](https://github.com/pratap360/MyToolKits)
+1. 💪 Opened PR [#33](https://github.com/PratyayDhond/BookQuotes/pull/33) in [PratyayDhond/BookQuotes](https://github.com/PratyayDhond/BookQuotes)
+2. 💪 Opened PR [#7](https://github.com/Nandini108/Name-Generator/pull/7) in [Nandini108/Name-Generator](https://github.com/Nandini108/Name-Generator)
+3. 💪 Opened PR [#38](https://github.com/adityabisht02/BetterPoll-Backend/pull/38) in [adityabisht02/BetterPoll-Backend](https://github.com/adityabisht02/BetterPoll-Backend)
+4. 🗣 Commented on [#33](https://github.com/adityabisht02/BetterPoll-Backend/issues/33) in [adityabisht02/BetterPoll-Backend](https://github.com/adityabisht02/BetterPoll-Backend)
+5. 💪 Opened PR [#50](https://github.com/MicrosoftStudentChapter/Hack-O-Bot/pull/50) in [MicrosoftStudentChapter/Hack-O-Bot](https://github.com/MicrosoftStudentChapter/Hack-O-Bot)
 <!--END_SECTION:activity-->
 
 <hr>
