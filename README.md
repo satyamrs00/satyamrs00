@@ -86,11 +86,11 @@
 
 ### Recent Activity 📊
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#83](https://github.com/Subham-Maity/StockOfSentence/pull/83) in [Subham-Maity/StockOfSentence](https://github.com/Subham-Maity/StockOfSentence)
-2. 🗣 Commented on [#30](https://github.com/MicrosoftStudentChapter/Hack-O-Bot/issues/30) in [MicrosoftStudentChapter/Hack-O-Bot](https://github.com/MicrosoftStudentChapter/Hack-O-Bot)
-3. 💪 Opened PR [#66](https://github.com/ankitmalakar7/Hacktoberfest2022/pull/66) in [ankitmalakar7/Hacktoberfest2022](https://github.com/ankitmalakar7/Hacktoberfest2022)
-4. 🗣 Commented on [#78](https://github.com/agamjotsingh18/codesetgo-website/issues/78) in [agamjotsingh18/codesetgo-website](https://github.com/agamjotsingh18/codesetgo-website)
-5. 💪 Opened PR [#33](https://github.com/PratyayDhond/BookQuotes/pull/33) in [PratyayDhond/BookQuotes](https://github.com/PratyayDhond/BookQuotes)
+1. 🗣 Commented on [#40](https://github.com/crescentpartha/CheatSheets-for-Developers/issues/40) in [crescentpartha/CheatSheets-for-Developers](https://github.com/crescentpartha/CheatSheets-for-Developers)
+2. 🗣 Commented on [#25](https://github.com/creative-tutorials/hashtag/issues/25) in [creative-tutorials/hashtag](https://github.com/creative-tutorials/hashtag)
+3. 🗣 Commented on [#230](https://github.com/thecyberworld/thecyberhub.org/issues/230) in [thecyberworld/thecyberhub.org](https://github.com/thecyberworld/thecyberhub.org)
+4. 💪 Opened PR [#83](https://github.com/Subham-Maity/StockOfSentence/pull/83) in [Subham-Maity/StockOfSentence](https://github.com/Subham-Maity/StockOfSentence)
+5. 🗣 Commented on [#30](https://github.com/MicrosoftStudentChapter/Hack-O-Bot/issues/30) in [MicrosoftStudentChapter/Hack-O-Bot](https://github.com/MicrosoftStudentChapter/Hack-O-Bot)
 <!--END_SECTION:activity-->
 
 <hr>
