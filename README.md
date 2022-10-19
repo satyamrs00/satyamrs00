@@ -86,11 +86,11 @@
 
 ### Recent Activity 📊
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#78](https://github.com/agamjotsingh18/codesetgo-website/issues/78) in [agamjotsingh18/codesetgo-website](https://github.com/agamjotsingh18/codesetgo-website)
-2. 💪 Opened PR [#33](https://github.com/PratyayDhond/BookQuotes/pull/33) in [PratyayDhond/BookQuotes](https://github.com/PratyayDhond/BookQuotes)
-3. 💪 Opened PR [#7](https://github.com/Nandini108/Name-Generator/pull/7) in [Nandini108/Name-Generator](https://github.com/Nandini108/Name-Generator)
-4. 💪 Opened PR [#38](https://github.com/adityabisht02/BetterPoll-Backend/pull/38) in [adityabisht02/BetterPoll-Backend](https://github.com/adityabisht02/BetterPoll-Backend)
-5. 🗣 Commented on [#33](https://github.com/adityabisht02/BetterPoll-Backend/issues/33) in [adityabisht02/BetterPoll-Backend](https://github.com/adityabisht02/BetterPoll-Backend)
+1. 💪 Opened PR [#66](https://github.com/ankitmalakar7/Hacktoberfest2022/pull/66) in [ankitmalakar7/Hacktoberfest2022](https://github.com/ankitmalakar7/Hacktoberfest2022)
+2. 🗣 Commented on [#78](https://github.com/agamjotsingh18/codesetgo-website/issues/78) in [agamjotsingh18/codesetgo-website](https://github.com/agamjotsingh18/codesetgo-website)
+3. 💪 Opened PR [#33](https://github.com/PratyayDhond/BookQuotes/pull/33) in [PratyayDhond/BookQuotes](https://github.com/PratyayDhond/BookQuotes)
+4. 💪 Opened PR [#7](https://github.com/Nandini108/Name-Generator/pull/7) in [Nandini108/Name-Generator](https://github.com/Nandini108/Name-Generator)
+5. 💪 Opened PR [#38](https://github.com/adityabisht02/BetterPoll-Backend/pull/38) in [adityabisht02/BetterPoll-Backend](https://github.com/adityabisht02/BetterPoll-Backend)
 <!--END_SECTION:activity-->
 
 <hr>
