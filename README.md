@@ -86,11 +86,11 @@
 
 ### Recent Activity 📊
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#40](https://github.com/crescentpartha/CheatSheets-for-Developers/issues/40) in [crescentpartha/CheatSheets-for-Developers](https://github.com/crescentpartha/CheatSheets-for-Developers)
-2. 🗣 Commented on [#25](https://github.com/creative-tutorials/hashtag/issues/25) in [creative-tutorials/hashtag](https://github.com/creative-tutorials/hashtag)
-3. 🗣 Commented on [#230](https://github.com/thecyberworld/thecyberhub.org/issues/230) in [thecyberworld/thecyberhub.org](https://github.com/thecyberworld/thecyberhub.org)
-4. 💪 Opened PR [#83](https://github.com/Subham-Maity/StockOfSentence/pull/83) in [Subham-Maity/StockOfSentence](https://github.com/Subham-Maity/StockOfSentence)
-5. 🗣 Commented on [#30](https://github.com/MicrosoftStudentChapter/Hack-O-Bot/issues/30) in [MicrosoftStudentChapter/Hack-O-Bot](https://github.com/MicrosoftStudentChapter/Hack-O-Bot)
+1. 💪 Opened PR [#63](https://github.com/crescentpartha/CheatSheets-for-Developers/pull/63) in [crescentpartha/CheatSheets-for-Developers](https://github.com/crescentpartha/CheatSheets-for-Developers)
+2. 💪 Opened PR [#60](https://github.com/crescentpartha/CheatSheets-for-Developers/pull/60) in [crescentpartha/CheatSheets-for-Developers](https://github.com/crescentpartha/CheatSheets-for-Developers)
+3. 🗣 Commented on [#40](https://github.com/crescentpartha/CheatSheets-for-Developers/issues/40) in [crescentpartha/CheatSheets-for-Developers](https://github.com/crescentpartha/CheatSheets-for-Developers)
+4. 🗣 Commented on [#25](https://github.com/creative-tutorials/hashtag/issues/25) in [creative-tutorials/hashtag](https://github.com/creative-tutorials/hashtag)
+5. 🗣 Commented on [#230](https://github.com/thecyberworld/thecyberhub.org/issues/230) in [thecyberworld/thecyberhub.org](https://github.com/thecyberworld/thecyberhub.org)
 <!--END_SECTION:activity-->
 
 <hr>
