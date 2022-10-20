@@ -86,11 +86,11 @@
 
 ### Recent Activity 📊
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/pratap360/MyToolKits/issues/5) in [pratap360/MyToolKits](https://github.com/pratap360/MyToolKits)
-2. ❗️ Opened issue [#35](https://github.com/PratyayDhond/BookQuotes/issues/35) in [PratyayDhond/BookQuotes](https://github.com/PratyayDhond/BookQuotes)
-3. 💪 Opened PR [#63](https://github.com/crescentpartha/CheatSheets-for-Developers/pull/63) in [crescentpartha/CheatSheets-for-Developers](https://github.com/crescentpartha/CheatSheets-for-Developers)
-4. 💪 Opened PR [#60](https://github.com/crescentpartha/CheatSheets-for-Developers/pull/60) in [crescentpartha/CheatSheets-for-Developers](https://github.com/crescentpartha/CheatSheets-for-Developers)
-5. 🗣 Commented on [#40](https://github.com/crescentpartha/CheatSheets-for-Developers/issues/40) in [crescentpartha/CheatSheets-for-Developers](https://github.com/crescentpartha/CheatSheets-for-Developers)
+1. 💪 Opened PR [#25](https://github.com/pratap360/MyToolKits/pull/25) in [pratap360/MyToolKits](https://github.com/pratap360/MyToolKits)
+2. 🗣 Commented on [#5](https://github.com/pratap360/MyToolKits/issues/5) in [pratap360/MyToolKits](https://github.com/pratap360/MyToolKits)
+3. ❗️ Opened issue [#35](https://github.com/PratyayDhond/BookQuotes/issues/35) in [PratyayDhond/BookQuotes](https://github.com/PratyayDhond/BookQuotes)
+4. 💪 Opened PR [#63](https://github.com/crescentpartha/CheatSheets-for-Developers/pull/63) in [crescentpartha/CheatSheets-for-Developers](https://github.com/crescentpartha/CheatSheets-for-Developers)
+5. 💪 Opened PR [#60](https://github.com/crescentpartha/CheatSheets-for-Developers/pull/60) in [crescentpartha/CheatSheets-for-Developers](https://github.com/crescentpartha/CheatSheets-for-Developers)
 <!--END_SECTION:activity-->
 
 <hr>
