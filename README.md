@@ -91,11 +91,11 @@
 
 ### Recent Activity 📊
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#4](https://github.com/SoundaryaKhanapur/devnation-hacktoberfest/pull/4) in [SoundaryaKhanapur/devnation-hacktoberfest](https://github.com/SoundaryaKhanapur/devnation-hacktoberfest)
-2. 🗣 Commented on [#46](https://github.com/thieleju/statsbot/issues/46) in [thieleju/statsbot](https://github.com/thieleju/statsbot)
-3. 💪 Opened PR [#52](https://github.com/thieleju/statsbot/pull/52) in [thieleju/statsbot](https://github.com/thieleju/statsbot)
-4. 💪 Opened PR [#51](https://github.com/thieleju/statsbot/pull/51) in [thieleju/statsbot](https://github.com/thieleju/statsbot)
-5. 🗣 Commented on [#46](https://github.com/thieleju/statsbot/issues/46) in [thieleju/statsbot](https://github.com/thieleju/statsbot)
+1. 🗣 Commented on [#1](https://github.com/matrixiocommunity/Logged/issues/1) in [matrixiocommunity/Logged](https://github.com/matrixiocommunity/Logged)
+2. 💪 Opened PR [#25](https://github.com/pratap360/MyToolKits/pull/25) in [pratap360/MyToolKits](https://github.com/pratap360/MyToolKits)
+3. 🗣 Commented on [#5](https://github.com/pratap360/MyToolKits/issues/5) in [pratap360/MyToolKits](https://github.com/pratap360/MyToolKits)
+4. ❗️ Opened issue [#35](https://github.com/PratyayDhond/BookQuotes/issues/35) in [PratyayDhond/BookQuotes](https://github.com/PratyayDhond/BookQuotes)
+5. 💪 Opened PR [#63](https://github.com/crescentpartha/CheatSheets-for-Developers/pull/63) in [crescentpartha/CheatSheets-for-Developers](https://github.com/crescentpartha/CheatSheets-for-Developers)
 <!--END_SECTION:activity-->
 
 <hr>
