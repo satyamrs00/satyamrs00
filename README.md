@@ -91,11 +91,11 @@
 
 ### Recent Activity 📊
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#109](https://github.com/prasadsawant7/Python_Programs/pull/109) in [prasadsawant7/Python_Programs](https://github.com/prasadsawant7/Python_Programs)
-2. ❌ Closed PR [#110](https://github.com/prasadsawant7/Python_Programs/pull/110) in [prasadsawant7/Python_Programs](https://github.com/prasadsawant7/Python_Programs)
-3. 💪 Opened PR [#133](https://github.com/harshvardhansb/TourGuide/pull/133) in [harshvardhansb/TourGuide](https://github.com/harshvardhansb/TourGuide)
-4. 💪 Opened PR [#28](https://github.com/Franqsanz/fruits-api/pull/28) in [Franqsanz/fruits-api](https://github.com/Franqsanz/fruits-api)
-5. 🗣 Commented on [#27](https://github.com/Franqsanz/fruits-api/issues/27) in [Franqsanz/fruits-api](https://github.com/Franqsanz/fruits-api)
+1. 🗣 Commented on [#28](https://github.com/Franqsanz/fruits-api/issues/28) in [Franqsanz/fruits-api](https://github.com/Franqsanz/fruits-api)
+2. ❌ Closed PR [#109](https://github.com/prasadsawant7/Python_Programs/pull/109) in [prasadsawant7/Python_Programs](https://github.com/prasadsawant7/Python_Programs)
+3. ❌ Closed PR [#110](https://github.com/prasadsawant7/Python_Programs/pull/110) in [prasadsawant7/Python_Programs](https://github.com/prasadsawant7/Python_Programs)
+4. 💪 Opened PR [#133](https://github.com/harshvardhansb/TourGuide/pull/133) in [harshvardhansb/TourGuide](https://github.com/harshvardhansb/TourGuide)
+5. 💪 Opened PR [#28](https://github.com/Franqsanz/fruits-api/pull/28) in [Franqsanz/fruits-api](https://github.com/Franqsanz/fruits-api)
 <!--END_SECTION:activity-->
 
 <hr>
