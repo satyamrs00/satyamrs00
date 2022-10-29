@@ -91,11 +91,11 @@
 
 ### Recent Activity 📊
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25](https://github.com/creative-tutorials/hashtag/issues/25) in [creative-tutorials/hashtag](https://github.com/creative-tutorials/hashtag)
-2. 💪 Opened PR [#164](https://github.com/harshvardhansb/TourGuide/pull/164) in [harshvardhansb/TourGuide](https://github.com/harshvardhansb/TourGuide)
-3. 🗣 Commented on [#25](https://github.com/creative-tutorials/hashtag/issues/25) in [creative-tutorials/hashtag](https://github.com/creative-tutorials/hashtag)
-4. 🗣 Commented on [#28](https://github.com/Franqsanz/fruits-api/issues/28) in [Franqsanz/fruits-api](https://github.com/Franqsanz/fruits-api)
-5. ❌ Closed PR [#109](https://github.com/prasadsawant7/Python_Programs/pull/109) in [prasadsawant7/Python_Programs](https://github.com/prasadsawant7/Python_Programs)
+1. 💪 Opened PR [#5](https://github.com/StianOvesen/stianovesen.github.io/pull/5) in [StianOvesen/stianovesen.github.io](https://github.com/StianOvesen/stianovesen.github.io)
+2. 🗣 Commented on [#25](https://github.com/creative-tutorials/hashtag/issues/25) in [creative-tutorials/hashtag](https://github.com/creative-tutorials/hashtag)
+3. 💪 Opened PR [#164](https://github.com/harshvardhansb/TourGuide/pull/164) in [harshvardhansb/TourGuide](https://github.com/harshvardhansb/TourGuide)
+4. 🗣 Commented on [#25](https://github.com/creative-tutorials/hashtag/issues/25) in [creative-tutorials/hashtag](https://github.com/creative-tutorials/hashtag)
+5. 🗣 Commented on [#28](https://github.com/Franqsanz/fruits-api/issues/28) in [Franqsanz/fruits-api](https://github.com/Franqsanz/fruits-api)
 <!--END_SECTION:activity-->
 
 <hr>
