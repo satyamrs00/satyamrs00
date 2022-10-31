@@ -91,11 +91,11 @@
 
 ### Recent Activity 📊
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/StianOvesen/stianovesen.github.io/pull/5) in [StianOvesen/stianovesen.github.io](https://github.com/StianOvesen/stianovesen.github.io)
-2. 🗣 Commented on [#25](https://github.com/creative-tutorials/hashtag/issues/25) in [creative-tutorials/hashtag](https://github.com/creative-tutorials/hashtag)
-3. 💪 Opened PR [#164](https://github.com/harshvardhansb/TourGuide/pull/164) in [harshvardhansb/TourGuide](https://github.com/harshvardhansb/TourGuide)
-4. 🗣 Commented on [#25](https://github.com/creative-tutorials/hashtag/issues/25) in [creative-tutorials/hashtag](https://github.com/creative-tutorials/hashtag)
-5. 🗣 Commented on [#28](https://github.com/Franqsanz/fruits-api/issues/28) in [Franqsanz/fruits-api](https://github.com/Franqsanz/fruits-api)
+1. 💪 Opened PR [#25](https://github.com/GingerKiwi/alice-game/pull/25) in [GingerKiwi/alice-game](https://github.com/GingerKiwi/alice-game)
+2. 💪 Opened PR [#5](https://github.com/StianOvesen/stianovesen.github.io/pull/5) in [StianOvesen/stianovesen.github.io](https://github.com/StianOvesen/stianovesen.github.io)
+3. 🗣 Commented on [#25](https://github.com/creative-tutorials/hashtag/issues/25) in [creative-tutorials/hashtag](https://github.com/creative-tutorials/hashtag)
+4. 💪 Opened PR [#164](https://github.com/harshvardhansb/TourGuide/pull/164) in [harshvardhansb/TourGuide](https://github.com/harshvardhansb/TourGuide)
+5. 🗣 Commented on [#25](https://github.com/creative-tutorials/hashtag/issues/25) in [creative-tutorials/hashtag](https://github.com/creative-tutorials/hashtag)
 <!--END_SECTION:activity-->
 
 <hr>
