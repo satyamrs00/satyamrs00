@@ -91,11 +91,11 @@
 
 ### Recent Activity 📊
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#145](https://github.com/jambonz/jambonz-webapp/issues/145) in [jambonz/jambonz-webapp](https://github.com/jambonz/jambonz-webapp)
-2. 💪 Opened PR [#26](https://github.com/GingerKiwi/alice-game/pull/26) in [GingerKiwi/alice-game](https://github.com/GingerKiwi/alice-game)
-3. 💪 Opened PR [#25](https://github.com/GingerKiwi/alice-game/pull/25) in [GingerKiwi/alice-game](https://github.com/GingerKiwi/alice-game)
-4. 💪 Opened PR [#5](https://github.com/StianOvesen/stianovesen.github.io/pull/5) in [StianOvesen/stianovesen.github.io](https://github.com/StianOvesen/stianovesen.github.io)
-5. 🗣 Commented on [#25](https://github.com/creative-tutorials/hashtag/issues/25) in [creative-tutorials/hashtag](https://github.com/creative-tutorials/hashtag)
+1. ❌ Closed PR [#26](https://github.com/GingerKiwi/alice-game/pull/26) in [GingerKiwi/alice-game](https://github.com/GingerKiwi/alice-game)
+2. 🗣 Commented on [#145](https://github.com/jambonz/jambonz-webapp/issues/145) in [jambonz/jambonz-webapp](https://github.com/jambonz/jambonz-webapp)
+3. 💪 Opened PR [#26](https://github.com/GingerKiwi/alice-game/pull/26) in [GingerKiwi/alice-game](https://github.com/GingerKiwi/alice-game)
+4. 💪 Opened PR [#25](https://github.com/GingerKiwi/alice-game/pull/25) in [GingerKiwi/alice-game](https://github.com/GingerKiwi/alice-game)
+5. 💪 Opened PR [#5](https://github.com/StianOvesen/stianovesen.github.io/pull/5) in [StianOvesen/stianovesen.github.io](https://github.com/StianOvesen/stianovesen.github.io)
 <!--END_SECTION:activity-->
 
 <hr>
