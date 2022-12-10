@@ -10,7 +10,7 @@
 <!-- Skill Icons -->
 <div align="center">
   	<a href="https://skillicons.dev">
-    	<img src="https://skillicons.dev/icons?i=django,flask,py,angular,bootstrap,js,html,css,postgres,mongodb,sqlite,git,github,heroku,linux,bash,c,cpp,gcp,regex,vscode&perline=50" />
+    	<img src="https://skillicons.dev/icons?i=django,flask,react,redux,py,bootstrap,jquery,js,html,css,sass,postgres,mongodb,sqlite,git,github,heroku,netlify,linux,bash,c,cpp,gcp,md,regex,vscode&perline=50&theme=dark" />
 	</a>
 </div>
 
