@@ -71,7 +71,7 @@
 <!-- Activity Graph -->
 <div>
 	<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-		<img align="center" src="https://activity-graph.herokuapp.com/graph?username=satyamrs00&theme=gotham&hide_border=true"/>
+		<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=satyamrs00&theme=gotham&hide_border=true"/>
 	</a>
 </div>
 
