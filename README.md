@@ -91,11 +91,11 @@
 
 ### Recent Activity 📊
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6400](https://github.com/twilio-labs/open-pixel-art/pull/6400) in [twilio-labs/open-pixel-art](https://github.com/twilio-labs/open-pixel-art)
-2. ❌ Closed PR [#26](https://github.com/GingerKiwi/alice-game/pull/26) in [GingerKiwi/alice-game](https://github.com/GingerKiwi/alice-game)
-3. 🗣 Commented on [#145](https://github.com/jambonz/jambonz-webapp/issues/145) in [jambonz/jambonz-webapp](https://github.com/jambonz/jambonz-webapp)
-4. 💪 Opened PR [#26](https://github.com/GingerKiwi/alice-game/pull/26) in [GingerKiwi/alice-game](https://github.com/GingerKiwi/alice-game)
-5. 💪 Opened PR [#25](https://github.com/GingerKiwi/alice-game/pull/25) in [GingerKiwi/alice-game](https://github.com/GingerKiwi/alice-game)
+1. ❌ Closed PR [#6400](https://github.com/twilio-labs/open-pixel-art/pull/6400) in [twilio-labs/open-pixel-art](https://github.com/twilio-labs/open-pixel-art)
+2. 💪 Opened PR [#6400](https://github.com/twilio-labs/open-pixel-art/pull/6400) in [twilio-labs/open-pixel-art](https://github.com/twilio-labs/open-pixel-art)
+3. ❌ Closed PR [#26](https://github.com/GingerKiwi/alice-game/pull/26) in [GingerKiwi/alice-game](https://github.com/GingerKiwi/alice-game)
+4. 🗣 Commented on [#145](https://github.com/jambonz/jambonz-webapp/issues/145) in [jambonz/jambonz-webapp](https://github.com/jambonz/jambonz-webapp)
+5. 💪 Opened PR [#26](https://github.com/GingerKiwi/alice-game/pull/26) in [GingerKiwi/alice-game](https://github.com/GingerKiwi/alice-game)
 <!--END_SECTION:activity-->
 
 <hr>
