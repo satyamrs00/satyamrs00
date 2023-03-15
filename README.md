@@ -82,21 +82,21 @@
 	</a>
 </div>
 
-<hr>
+<!-- <hr> -->
 
 <!-- holopin -->
 <!-- [![@satyamrs00's Holopin board](https://holopin.me/satyamrs00)](https://holopin.io/@satyamrs00)
 
 <hr> -->
 
-### Recent Activity 📊
+<!-- ### Recent Activity 📊
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6400](https://github.com/twilio-labs/open-pixel-art/pull/6400) in [twilio-labs/open-pixel-art](https://github.com/twilio-labs/open-pixel-art)
+<!-- 1. 💪 Opened PR [#6400](https://github.com/twilio-labs/open-pixel-art/pull/6400) in [twilio-labs/open-pixel-art](https://github.com/twilio-labs/open-pixel-art)
 2. ❌ Closed PR [#26](https://github.com/GingerKiwi/alice-game/pull/26) in [GingerKiwi/alice-game](https://github.com/GingerKiwi/alice-game)
 3. 🗣 Commented on [#145](https://github.com/jambonz/jambonz-webapp/issues/145) in [jambonz/jambonz-webapp](https://github.com/jambonz/jambonz-webapp)
 4. 💪 Opened PR [#26](https://github.com/GingerKiwi/alice-game/pull/26) in [GingerKiwi/alice-game](https://github.com/GingerKiwi/alice-game)
 5. 💪 Opened PR [#25](https://github.com/GingerKiwi/alice-game/pull/25) in [GingerKiwi/alice-game](https://github.com/GingerKiwi/alice-game)
-<!--END_SECTION:activity-->
+END_SECTION:activity  -->
 
 <hr>
 
