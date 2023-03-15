@@ -20,9 +20,9 @@
 <!-- Points -->
 ```diff
 
-+ I am a Full Stack Developer.
-+ Currently working as Web Developer intern at JDMR Ischool.
-+ Second year student at IIIT Bhopal
++ I am a Web Developer and currently exploring different domains of Computer Science.
++ Currently working as Frontend Developer intern at Greyfeathers.
++ Second year student at IIIT Bhopal.
 
 ```
 <br>
