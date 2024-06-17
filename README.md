@@ -19,10 +19,9 @@
 
 <!-- Points -->
 ```diff
-
-+ I am a Web Developer and currently exploring different domains of Computer Science.
-+ Currently working as Frontend Developer intern at Greyfeathers.
-+ Second year student at IIIT Bhopal.
++ Senior at IIIT Bhopal
++ Open for new opportunities
++ Contact - [email](mailto:satyamsagar1711@gmail.com)
 
 ```
 <br>
