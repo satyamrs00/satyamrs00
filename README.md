@@ -21,7 +21,7 @@
 
 + Senior at IIIT Bhopal
 + Open for new opportunities
-+ Contact - [email](mailto:satyamsagar1711@gmail.com)
++ Contact - [satyamsagar1711@gmail.com](mailto:satyamsagar1711@gmail.com)
 
 
 <br>
