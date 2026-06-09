@@ -1,45 +1,30 @@
-<!-- # Hi 👋, I’m Satyam Sagar -->
+<h1 align="center">Satyam Sagar</h1> 
 
-<!-- Heading -->
-<h1 align="center">
-  	<a href="https://git.io/typing-svg">
-    	<img src="https://readme-typing-svg.herokuapp.com/?lines=This+is+Satyam+Sagar;&center=true&size=30&duration=2000&pause=6000000&color=259076&font=Open+Sans">
-	</a>
-</h1>
+<p align="center">  Software Engineer · Backend & Full-Stack · Performance Engineering </p> 
+<p align="center"> 
+    <a href="https://linkedin.com/in/satyamrs00">LinkedIn</a> 
+    · 
+    <a href="mailto:satyamsagar1711@gmail.com">Email</a>
+</p> 
 
-<!-- Skill Icons -->
-<div align="center">
-  	<a href="https://skillicons.dev">
-    	<img src="https://skillicons.dev/icons?i=django,flask,react,redux,py,bootstrap,jquery,js,html,css,sass,postgres,mongodb,sqlite,git,github,heroku,netlify,linux,bash,c,cpp,gcp,md,regex,vscode&perline=50&theme=dark" />
-	</a>
-</div>
+--- 
 
-<!-- <hr> -->
-<br>
+**Experience** 
 
-<!-- Points -->
+- **UKG** — Software Engineer *(Jul 2025 - Present)* 
+- **Cred** — Software Engineer Intern *(Sep 2024 - Apr 2025)* 
+- **Infinity Learn** — Software Engineer Intern *(Oct 2023 - Dec 2023)* 
+- **GreyFeathers** — Software Engineer Intern *(Dec 2022 - Oct 2023)* 
+  
+**Education** 
 
-+ Senior at IIIT Bhopal
-+ Open for new opportunities
-+ Contact - [satyamsagar1711@gmail.com](mailto:satyamsagar1711@gmail.com)
+- B.Tech Information Technology, IIIT Bhopal *(2021 - 2025)* — GPA 8.55/10 
 
+**Achievements** 
 
-<br>
-
-<!-- badges -->
-<div align="center">
-
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satyamsagar1711@gmail.com)
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satyamrs00)
-[![](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/satyamrs00)
-[![](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/312qacqmhjkmy7v64d3a2jxlnc6m?si=49e26fca3c514eb8)
-[![](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/satyamrs00/)
-[![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/satyamrs00)
-
-</div>
-<!-- [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]() -->
-<!-- ![](https://komarev.com/ghpvc/?username=satyamrs00&color=259076&style=flat) -->
-
+- 🏆 1st place, Smart India Hackathon 2023 
+- 🥈 2nd place, HackSquad 2022 — most open-source PRs merged 
+- ⚡ Leetcode Knight (1906) · Codechef 3-star (1774) ---
 
 <hr>
 
@@ -58,27 +43,27 @@
 <div>
 	<!-- Github Streak -->
 	<a href="https://git.io/streak-stats">
-		<img align="center" width="59%" src="https://github-readme-streak-stats.herokuapp.com/?user=satyamrs00&theme=gotham&hide_border=true"/>
+		<img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=satyamrs00&theme=gotham&hide_border=true"/>
 	</a>
 	<!-- Spotify -->
-	<a href="https://spotify-github-profile.vercel.app/api/view?uid=312qacqmhjkmy7v64d3a2jxlnc6m&redirect=true">
+	<!-- <a href="https://spotify-github-profile.vercel.app/api/view?uid=312qacqmhjkmy7v64d3a2jxlnc6m&redirect=true">
 		<img align="center" width="40%" src="https://spotify-github-profile.vercel.app/api/view?uid=312qacqmhjkmy7v64d3a2jxlnc6m&cover_image=true&theme=novatorem&show_offline=false&bar_color=259076&bar_color_cover=false"/>
-	</a>
+	</a> -->
 </div>
 
 <!-- Activity Graph -->
-<div>
+<!-- <div>
 	<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
 		<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=satyamrs00&theme=gotham&hide_border=true"/>
 	</a>
-</div>
+</div> -->
 
 <!-- pagespeed insights -->
-<div align="center">
+<!-- <div align="center">
 	<a href="https://satyamrs00.github.io">
 		<img src="pagespeed.svg" width="60%">
 	</a>
-</div>
+</div> -->
 
 <!-- <hr> -->
 
@@ -90,16 +75,16 @@
 <!-- ### Recent Activity 📊
 <!--START_SECTION:activity-->
 <!-- 1. 💪 Opened PR [#6400](https://github.com/twilio-labs/open-pixel-art/pull/6400) in [twilio-labs/open-pixel-art](https://github.com/twilio-labs/open-pixel-art)
-2. ❌ Closed PR [#26](https://github.com/GingerKiwi/alice-game/pull/26) in [GingerKiwi/alice-game](https://github.com/GingerKiwi/alice-game)
-3. 🗣 Commented on [#145](https://github.com/jambonz/jambonz-webapp/issues/145) in [jambonz/jambonz-webapp](https://github.com/jambonz/jambonz-webapp)
-4. 💪 Opened PR [#26](https://github.com/GingerKiwi/alice-game/pull/26) in [GingerKiwi/alice-game](https://github.com/GingerKiwi/alice-game)
-5. 💪 Opened PR [#25](https://github.com/GingerKiwi/alice-game/pull/25) in [GingerKiwi/alice-game](https://github.com/GingerKiwi/alice-game)
+1. ❌ Closed PR [#26](https://github.com/GingerKiwi/alice-game/pull/26) in [GingerKiwi/alice-game](https://github.com/GingerKiwi/alice-game)
+2. 🗣 Commented on [#145](https://github.com/jambonz/jambonz-webapp/issues/145) in [jambonz/jambonz-webapp](https://github.com/jambonz/jambonz-webapp)
+3. 💪 Opened PR [#26](https://github.com/GingerKiwi/alice-game/pull/26) in [GingerKiwi/alice-game](https://github.com/GingerKiwi/alice-game)
+4. 💪 Opened PR [#25](https://github.com/GingerKiwi/alice-game/pull/25) in [GingerKiwi/alice-game](https://github.com/GingerKiwi/alice-game)
 END_SECTION:activity  -->
 
 <hr>
 
 <!-- repos -->
-<div width="100%" align="center">
+<!-- <div width="100%" align="center">
 	<a align="left" href="https://github.com/satyamrs00/pizza" title="Pizza">
 		<img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=satyamrs00&repo=pizza&theme=gotham&hide_border=true">
 	</a>
@@ -124,7 +109,7 @@ END_SECTION:activity  -->
 	<a align="right" href="https://github.com/satyamrs00/satyamrs00" title="satyamrs00">
 		<img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=satyamrs00&repo=satyamrs00&theme=gotham&hide_border=true">
 	</a>
-</div>
+</div> -->
 
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=satyamrs00&theme=dark)](https://github.com/ryo-ma/github-profile-trophy) -->
